@@ -7,3 +7,6 @@ In this repository are *both* an `environment.yml` file as well as a `REQURE` fi
 The former corresponds to an anaconda python environment, and the latter corresponds
 to a Julia environment. Both kernels will be available to you in a built Binder
 environment.
+
+
+Firing up mybinder: https://mybinder.org/v2/gh/sje30/julia-python/master
